@@ -32,8 +32,8 @@ test:
 production:
   adapter: mysql2
   encoding: utf8
-  database: capsop
+  database: caps
   pool: 5
-  username: capsop
-  password: root
+  username: admindIxMMSn
+  password: FZmsrJ1wR38H
   host: localhost
